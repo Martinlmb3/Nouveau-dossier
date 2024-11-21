@@ -1,29 +1,29 @@
-# Martin et j’aime programmer 🤖
+# Martin et j’aime construire des robots 🤖
 
-Je m’appelle Martin Lumumba, j’ai 26 ans et j’habite a Liège
+Je m’appelle Xavier Lumumba, j’ai 73 ans et j’habite a Namur
 
 **Les trois choses les plus surprenantes à mon sujet**
 
-- Je peut coder dans plusieurs langage de programmation
-- Je soulève 100 Kg au développer coucher
-- Je pleure pas quand je coupe des oignons
+- Je peux élever des mangoustes
+- Je soulève 1 kg au curl poulie
+- Je pleure pas quand je coupe des oignons (sérieux ??????)
 
 **Les 3 choses que j’aime le plus dans l’univers**
 
-- La gastronomie
-- L’astrologie
-- La programmation
+- Le beurre de cacahuète
+- Le judo
+- Le jus d'orange
 
-Pendant la formation Becode j’aimerai appendre des nouveaux langage de programmation.
+Pendant la formation Becode j’aimerai appendre la salsa
 
-J’ai peur de ne pas trouver un stage.
+J’ai peur de ne pas pouvoir danser la salsa
 
-A l’avenir, j’aimerai bien trouver un travail a l’étranger.
+A l’avenir, j’aimerai bien trouver un travail au Mexique, pour danser la salsa.
 
 **Les 3 choses les plus importantes dans un travail de groupe selon moi.**
 
-- Une bonne entente
-- Une bonne organisation
-- Une bonne communication
+- Une bonne salsa
+- Une bonne sauce salsa
+- Une bonne communication à propos de la salsa
 
-[https://giphy.com/embed/ZFLkpfXRGVqvvpuNBh](https://giphy.com/embed/ZFLkpfXRGVqvvpuNBh)
+[https://giphy.com/embed/ZFLkpfXRGVqvvpuNBh](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2czbW8zbmhtanEyeGNwNjcyYXgwNjV2bGtueWQzODNmZTVoZGN0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l4FGpPki5v2Bcd6Ss/giphy-downsized-large.gif)
